@@ -1,0 +1,21 @@
+body {
+ background-color: grey;   
+}
+
+.corRoxa {
+    color: rgb(195, 0, 255);
+}
+.titulo {
+    font-size:20px;
+}  
+#paragrafoUm {
+    color: rgb(245, 6, 6); 
+    font-weight: 100;
+}
+.corazul {
+    color: rgb(18, 15, 228);
+}
+
+.corLaranja {
+    color: coral;
+}
